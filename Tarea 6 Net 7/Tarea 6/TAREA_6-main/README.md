@@ -1,2 +1,2 @@
-# TAREA_6_net7
-Edwin Tzunux
+TAREA_6_net7
+Hector Dieguez 
