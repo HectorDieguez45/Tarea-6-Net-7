@@ -1,2 +1,2 @@
-TAREA_6_net7
+TAREA_6_Net7
 Hector Dieguez 
